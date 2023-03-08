@@ -23,7 +23,7 @@ You just need to ```cd``` to specific folder and run ```docker-compose up -d```
 For example:
 
 ```bash
-  cd monitoring && docker-compose up -d
+  cd rabbitmq && docker-compose up -d
 ```
 
 As for myself, I like to keep the container exist in docker, so that i may turn it off and on anytime I wanted to.
