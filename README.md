@@ -9,6 +9,7 @@ Compilation of docker-compose files for local development. Including:
 - postgres
 - rabbitmq
 - redis
+- opentelemetry + jaeger
 
 ## Why did you make this?
 
