@@ -1,0 +1,11 @@
+postgres/pgdata/*
+
+mysql/mydata/*
+
+elastickibana/esdata01/*
+elastickibana/kibanadata/*
+
+rabbitmq/logs/*
+rabbitmq/rabbitdata/*
+
+redis/cache/*
